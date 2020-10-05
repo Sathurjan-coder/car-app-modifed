@@ -26,7 +26,7 @@ const data = [
         id: 2,
         name: 'Justin Biber',
         year: '2016',
-        model: 'AMG',
+        model: 'Songs',
         make: 'US rapper',
         media: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Justin_Bieber_in_2015.jpg/220px-Justin_Bieber_in_2015.jpg',
         price: '$138,157'
@@ -37,7 +37,7 @@ const data = [
         name: 'A.R.Rahman',
         year: '2016',
         model: 'music composing',
-        make: 'BMW',
+        make: 'Songs',
         media: 'https://www.pinkvilla.com/files/styles/contentpreview/public/ar_rahmans_income_tax_controversy_heres_what_led_to_the_case_against_the_composer.jpg?itok=7eHb8Ala',
         price: '$68,999'
     },
@@ -46,7 +46,7 @@ const data = [
         name: 'Anirudh',
         since: '2016',
         model: 'indian remixer',
-        make: 'Ford',
+        make: 'FRemix songs',
         media: 'https://i.pinimg.com/originals/52/c0/53/52c053d89490e5273efadf28b826fa70.jpg',
         price: '$36,275'
     },

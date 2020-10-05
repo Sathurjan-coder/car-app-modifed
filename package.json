@@ -27,6 +27,7 @@
     "webpack-cli": "^3.3.12"
   },
   "dependencies": {
+    "build": "^0.1.4",
     "express": "^4.17.1",
     "npm": "^6.14.8",
     "react": "^16.13.1",
